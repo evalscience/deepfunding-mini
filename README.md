@@ -1,6 +1,7 @@
 # DeepFunding Mini-Contest 🚀
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/evalscience/deepfunding-mini/blob/main/notebooks/deepfunding_mini_tutorial.ipynb)
 
 DeepFunding Mini is a [mini-contest](https://huggingface.co/spaces/DeepFunding/PredictiveFundingChallengeforOpenSourceDependencies) to create a distilled human judgment mechanism predicting the amount of past funding received by open source projects.
 
